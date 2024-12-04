@@ -44,6 +44,9 @@ First setup your machine or your teammate's machine to be the self hosted runner
 Answer the following questions:
 
 1. What does the __runs-on__ string  
+
+It specifies the runner that will pick up the action.
+
 2. In `main.yml`, on which branch do the jest tests run when a push to main branch is made?
 
 The jest tests run on the main branch.
