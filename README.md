@@ -45,7 +45,12 @@ Answer the following questions:
 
 1. What does the __runs-on__ string  
 2. In `main.yml`, on which branch do the jest tests run when a push to main branch is made?
+
+The jest tests run on the main branch.
+
 3. In `main.yml`, on which branch do the jest tests run when a pull request is submitted to the deploy branch?
+
+The jest tests run on the deploy branch.
 
 Next, create a new workflow yml file that captures the following continuous integration requirement:
 
