@@ -1,4 +1,4 @@
-name: Prepare Database
+name: Seed data
 
 on:
   push:
